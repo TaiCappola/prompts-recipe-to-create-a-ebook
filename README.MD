@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Black and Light Yellow Gradient Clean Minimalist Cookbook E-Book Cover.jpg"
     width="400"  
 />
 </p>
